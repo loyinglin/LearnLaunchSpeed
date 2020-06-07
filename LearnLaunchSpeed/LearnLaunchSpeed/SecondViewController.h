@@ -1,5 +1,5 @@
 //
-//  SceneDelegate.h
+//  SecondViewController.h
 //  LearnLaunchSpeed
 //
 //  Created by loyinglin on 2020/6/6.
@@ -8,9 +8,8 @@
 
 #import <UIKit/UIKit.h>
 
-@interface SceneDelegate : UIResponder <UIWindowSceneDelegate>
+@interface SecondViewController : UIViewController
 
-@property (strong, nonatomic) UIWindow * window;
 
 @end
 
